@@ -1,2 +1,0 @@
-# ServerlessWorkshopStarter
-Created with CodeSandbox
